@@ -1,1 +1,0 @@
-console.log("Sowmech Engineering website loaded successfully!");
